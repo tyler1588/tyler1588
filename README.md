@@ -5,10 +5,10 @@
 Skills:
 - HTML
 - CSS
-- Javascript
+- Javascript / ES6
 - React
-- Python
-- SQL
+- Node / Express
+- MongoDB, MySQL
 
 <!---
 tyler1588/tyler1588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

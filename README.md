@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @tyler1588
-- 👀 I am learning full stack development.
-- 🌱 I’m currently learning from The Odin Project.
+<h1>Hi, I’m @tyler1588</h1>
+<h3>I am a Frontend developer.</h3>
 
-Skills:
+**Projects:**
+- Quizzical
+  - Code: https://github.com/tyler1588/quizzical
+  - Demo: https://tyler1588.github.io/quizzical/
+
+**Skills:**
 - HTML
 - CSS
 - Javascript / ES6
 - React
-- Node / Express
-- MongoDB, MySQL
 
 <!---
 tyler1588/tyler1588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,4 @@
 <h1>Hi, I’m @tyler1588</h1>
-<h3>I am a Frontend developer.</h3>
 
 **Projects:**
 - Quizzical
@@ -11,6 +10,7 @@
 - CSS
 - Javascript / ES6
 - React
+- Python
 
 <!---
 tyler1588/tyler1588 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

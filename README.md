@@ -4,7 +4,7 @@
 - Quizzical
   - Code: https://github.com/tyler1588/quizzical
   - Demo: https://tyler1588.github.io/quizzical/
-- Memory
+- Memory Game
   - Code: https://github.com/tyler1588/memory-game
   - Demo: https://tyler1588.github.io/memory-game/
 

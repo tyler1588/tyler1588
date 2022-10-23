@@ -1,5 +1,7 @@
 <h1>Hi, I’m @tyler1588</h1>
 
+I am a lifelong learner. I am currently working through FullStackOpen while completing my Bachelors Degree in Computing Science through Thompson Rivers University.
+
 **Projects:**
 - Quizzical
   - Code: https://github.com/tyler1588/quizzical

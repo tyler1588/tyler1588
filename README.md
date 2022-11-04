@@ -2,8 +2,8 @@
 
 I am currently working through FullStackOpen while completing my Bachelors Degree in Computing Science through Thompson Rivers University.
 
-<h3>Projects</h3>
-<h5>Quizzical</h5>
+<h2>Projects</h2>
+<h3>Quizzical</h3>
 <b>Link:</b> https://tyler1588.github.io/quizzical
 </br>
 <b>Source Code:</b> https://github.com/tyler1588/quizzical
